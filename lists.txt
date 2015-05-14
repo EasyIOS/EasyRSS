@@ -1,4 +1,5 @@
-{
+{	"code":0
+	"data":{
 	"list":[
 		{"url":"http://easyios.08dream.com/index.php?s=/Home/Index/docRss","name":"EasyIOS梦享社区－资讯"},
 		{"url":"http://www.oschina.net/news/rss","name":"oschina新闻资讯"},
@@ -24,4 +25,5 @@
 		{"url":"http://songshuhui.net/feed","name":"科学松鼠会"},
 		{"url":"http://appshopper.com/feed/?mode=featured&filter=price&type=free","name":"AppShopper.com｜ios限时免费"}
 	]
+	}
 }
